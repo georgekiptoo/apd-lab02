@@ -1,2 +1,3 @@
 #define SAMPLE_PERIOD_MS 1000
 #define BUTTON_PIN 2
+#define LED_PIN 13
