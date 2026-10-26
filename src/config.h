@@ -3,3 +3,4 @@
 #define LED_PIN 13
 #define SERIAL_BAUD 115200
 #define FILTER_SIZE 8
+#define FILTER_TYPE 1
