@@ -2,3 +2,4 @@
 #define BUTTON_PIN 2
 #define LED_PIN 13
 #define SERIAL_BAUD 115200
+#define FILTER_SIZE 8
